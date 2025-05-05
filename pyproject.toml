@@ -7,7 +7,7 @@ homepage = "https://hexlet.io"
 readme="README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "hexlet-code",
+   
 ]
 [tool.uv]
 dev-dependencies = [
