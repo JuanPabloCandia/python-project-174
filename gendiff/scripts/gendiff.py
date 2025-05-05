@@ -10,7 +10,7 @@ def main():
     args = parser.parse_args()
 
     diff = generate_diff(args.first_file, args.second_file)
-    print(diff)  # <-- Esto es clave para mostrar el resultado
+    print(diff)  
 
 if __name__ == "__main__":
     main()
