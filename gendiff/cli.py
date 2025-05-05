@@ -1,5 +1,5 @@
 import argparse
-from gendiff.scripts.gendiff import generate_diff  # Asegúrate que esta función exista y esté bien importada
+from gendiff.scripts.gendiff import generate_diff
 
 def parse_args():
     parser = argparse.ArgumentParser(
