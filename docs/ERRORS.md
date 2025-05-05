@@ -1,0 +1,6 @@
+- 0 OK
+- 1 Called without arguments
+- 2 File not found
+- 3 Different formats of files
+- 4 Unsupported format
+- 5 File corrupted
